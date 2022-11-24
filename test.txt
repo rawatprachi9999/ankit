@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Hello!
 My Name is Ror!
+=======
+>>>>>>> parent of ba73999 (done)
